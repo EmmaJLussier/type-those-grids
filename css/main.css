@@ -12,18 +12,6 @@ img {
   width: 100%
 }
 
-body {
-  margin: 1rem;
-  padding: 1rem;
-
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-areas:
-  "header"
-  "div"
-  "main"
-  "figure"
-}
 
 header {
   text-align: left;
@@ -32,4 +20,15 @@ header {
 h1, h2 {
   font-style: italic;
 
+}
+
+main {
+  margin: 1rem;
+  padding: 1rem;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-areas:
+  "div"
+  "figure"
 }
