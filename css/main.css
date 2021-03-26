@@ -7,9 +7,7 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
-  /*
-  font-family: 'Merriweather', serif;
-  */
+
 img {
   width: 100%
 }
@@ -21,12 +19,14 @@ body {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-areas:
-  "banner"
+  "header"
+  "div"
+  "main"
+  "figure"
 }
 
 header {
   text-align: left;
-  background-image: url(../images/maerten-van-heemskerck-panorama-with-the-abduction-of-helen-amidst-the-wonders-of-the-ancient-world-walters-37656.jpg)
 }
 
 h1, h2 {
