@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: 'Merriweather', serif;
   line-height: 1.5;
 }
 
@@ -24,7 +25,8 @@ body {
 }
 
 header {
-
+  text-align: left;
+  background-image: url(../images/maerten-van-heemskerck-panorama-with-the-abduction-of-helen-amidst-the-wonders-of-the-ancient-world-walters-37656.jpg)
 }
 
 h1, h2 {
