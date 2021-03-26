@@ -29,6 +29,9 @@ main {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-areas:
-  "div"
-  "figure"
+  "banner"
+  "banner-text"
+  "col1"
+  "col2"
+  "col3"
 }
