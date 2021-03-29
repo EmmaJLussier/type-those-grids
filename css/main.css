@@ -12,25 +12,6 @@ img {
   width: 100%;
 }
 
-
-header {
-  text-align: left;
-}
-
-h1, h2 {
-  font-style: italic;
-}
-
-main {
-  margin: 1rem;
-  padding: 1rem;
-
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-areas:
-  "banner"
-  "banner-text"
-  "col1"
-  "col2"
-  "col3";
+body {
+  margin: 0;
 }
