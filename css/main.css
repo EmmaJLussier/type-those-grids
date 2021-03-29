@@ -69,23 +69,3 @@ p {
 figure {
   margin: 0;
 }
-
-figure h2 {
-  margin-bottom: 0;
-}
-
-figcaption {
-  padding: 1rem;
-}
-
-dl {
-  margin: 0;
-}
-
-dt {
-  font-style: italic;
-}
-
-dd {
-  margin-left: 1rem;
-}
