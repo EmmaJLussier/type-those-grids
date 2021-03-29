@@ -29,7 +29,7 @@ main {
   grid-area: banner;
 }
 
-.baner-text {
+.banner-text {
   grid-area: banner;
   align-self: end;
   color: #fff;
